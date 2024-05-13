@@ -52,4 +52,4 @@ The objective of this project is to develop a user-friendly web application for 
    - **TodoForm:** Define form fields corresponding to todo item attributes (e.g., title and description).
    - **Validation:** Implement validation rules to ensure data integrity and prevent errors.
 ## Preview 
-[!preview](assests/Screenshot%20from%202024-05-13%2016-45-16.png)
+![preview](assests/Screenshot%20from%202024-05-13%2016-45-16.png)
